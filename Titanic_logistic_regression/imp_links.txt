@@ -1,0 +1,7 @@
+video link
+https://www.youtube.com/watch?v=VCJdg7YBbAQ
+
+related blogs link
+https://www.kaggle.com/mnassrib/titanic-logistic-regression-with-python
+
+https://www.kaggle.com/daodao32/logistic-regression-for-titanic-dataset
